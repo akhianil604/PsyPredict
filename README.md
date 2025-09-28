@@ -13,7 +13,7 @@ Key engineering points:
 Replace the placeholder below with your Kaggle dataset URL:
 
 **Kaggle dataset:**  
-`[https://www.kaggle.com/<your-dataset-path-here>](https://www.kaggle.com/datasets/mdsultanulislamovi/mental-disorders-dataset)`
+`https://www.kaggle.com/datasets/mdsultanulislamovi/mental-disorders-dataset`
 
 > The notebook expects the dataset CSV at `DATA_PATH` (by default the notebook references `mental_disorders_dataset.csv`). Put the file under `data/` or update `DATA_PATH` in the notebook.
 
